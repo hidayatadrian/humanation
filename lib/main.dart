@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
-import 'landing/landing_screen.dart';
+import 'package:humanation/admin/home.dart';
+import 'landing/landing.dart';
 
 void main() {
-  runApp(Landing());
+  runApp(Home());
 }
