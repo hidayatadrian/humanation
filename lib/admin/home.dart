@@ -56,7 +56,7 @@ class Body extends StatelessWidget {
           padding: const EdgeInsets.fromLTRB(20, 0, 20, 0),
           child: Container(
               child: SvgPicture.asset('assets/img/home.svg',
-                  height: 300,
+                  height: 200,
                   width: MediaQuery.of(context).size.width,
                   fit: BoxFit.cover)),
         ),
